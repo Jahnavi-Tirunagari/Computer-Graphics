@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1523534649 source:c:\users\jahnavi\desktop\circle\main.cpp
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+
+1523521560 c:\users\jahnavi\desktop\opengl\gl files\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1519060478 c:\users\jahnavi\desktop\opengl\gl files\include\gl\gl.h
+
+1519060478 c:\users\jahnavi\desktop\opengl\gl files\include\gl\glu.h
+	<GL/gl.h>
+
